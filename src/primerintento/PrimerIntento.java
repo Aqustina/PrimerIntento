@@ -19,10 +19,12 @@ public class PrimerIntento {
     
     for (int i = 0; i<arraycito.length ;i++){
       arraycito[i]="git humberto";
-        System.out.println(arraycito[i]);
+        System.out.println(arraycito[i]+"es un quilombo el git hub");
       
         //probando eze
     }
+    
+    
     
     }
     
