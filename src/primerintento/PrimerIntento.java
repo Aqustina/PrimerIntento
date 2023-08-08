@@ -20,11 +20,12 @@ public class PrimerIntento {
     for (int i = 0; i<arraycito.length ;i++){
       arraycito[i]="git humberto";
         System.out.println(arraycito[i]);
-    
+      
+        //probando eze
     }
     
     }
     
-} Ahora si pude
+}  //Ahora si pude
 
-a ver si me ven 
+   //a ver si me ven 
