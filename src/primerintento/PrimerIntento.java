@@ -15,7 +15,14 @@ public class PrimerIntento {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String [] arraycito= new String [10];
+    
+    for (int i = 0; i<arraycito.length ;i++){
+      arraycito[i]="git humberto";
+        System.out.println(arraycito[i]);
+    
+    }
+    
     }
     
 }
